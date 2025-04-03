@@ -1,0 +1,14 @@
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\bin\Debug\net8.0\PhoneConsoleApp.exe
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\bin\Debug\net8.0\PhoneConsoleApp.deps.json
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\bin\Debug\net8.0\PhoneConsoleApp.runtimeconfig.json
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\bin\Debug\net8.0\PhoneConsoleApp.dll
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\bin\Debug\net8.0\PhoneConsoleApp.pdb
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.AssemblyInfoInputs.cache
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.AssemblyInfo.cs
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.dll
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\refint\PhoneConsoleApp.dll
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.pdb
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\PhoneConsoleApp.genruntimeconfig.cache
+C:\Users\w41332\Desktop\solid\Zasada segregacja interfejsów\Zadanie\PhoneConsoleApp\obj\Debug\net8.0\ref\PhoneConsoleApp.dll

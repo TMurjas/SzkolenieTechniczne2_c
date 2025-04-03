@@ -1,0 +1,13 @@
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.csproj.AssemblyReference.cache
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.AssemblyInfoInputs.cache
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.AssemblyInfo.cs
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.csproj.CoreCompileInputs.cache
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\bin\Debug\netcoreapp2.1\LiskovApp.deps.json
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\bin\Debug\netcoreapp2.1\LiskovApp.runtimeconfig.json
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\bin\Debug\netcoreapp2.1\LiskovApp.runtimeconfig.dev.json
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\bin\Debug\netcoreapp2.1\LiskovApp.dll
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\bin\Debug\netcoreapp2.1\LiskovApp.pdb
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.dll
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.pdb
+C:\Users\w41332\Desktop\solid\Zasada Liskov\Zadanie\LiskovApp\obj\Debug\netcoreapp2.1\LiskovApp.genruntimeconfig.cache
