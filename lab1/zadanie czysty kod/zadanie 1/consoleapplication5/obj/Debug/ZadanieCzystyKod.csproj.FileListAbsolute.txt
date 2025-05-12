@@ -1,0 +1,8 @@
+K:\LPiechocki\Szkolenie techniczne2 _2017\zadanie czysty kod\zadanie 1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\obj\Debug\ZadanieCzystyKod.csproj.AssemblyReference.cache
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\obj\Debug\ZadanieCzystyKod.csproj.CoreCompileInputs.cache
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+F:\sem4\SzkolenieTechniczne2\lab1\zadanie czysty kod\zadanie 1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
